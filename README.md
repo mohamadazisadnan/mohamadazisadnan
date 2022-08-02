@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mohamadazisadnan
-- 👀 I’m interested in ReactJs
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on React Native
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me Github
 
 <!---
