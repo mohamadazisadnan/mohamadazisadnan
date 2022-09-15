@@ -13,8 +13,8 @@ I am a fresh graduate from coding Bootcamp alterra academy, I have high enthusia
 - Unit testing
 
 ## **Contact :**
-https://www.instagram.com/azisadnann/
-https://www.linkedin.com/in/azisadnn/
+- https://www.instagram.com/azisadnann/
+- https://www.linkedin.com/in/azisadnn/
 <!---
 mohamadazisadnan/mohamadazisadnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
